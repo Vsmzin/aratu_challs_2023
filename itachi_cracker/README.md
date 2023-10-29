@@ -1,15 +1,5 @@
 - Categoria: Easy
 
-Login e check_login, o que fazer?
-
-{IPDODOCKER}:1337
-
-Formato da flag: BOITA{string}
-
-## Arquivos para o chall
-- requirements.txt
-- main.py
-
 ## Instruções
 ```
 docker build -t itachi_cracker .
