@@ -1,9 +1,8 @@
-## Texto para o chall
 - Categoria: Easy
 
 Login e check_login, o que fazer?
 
-{ipdodocker}:1337
+{IPDODOCKER}:1337
 
 Formato da flag: BOITA{string}
 
@@ -14,9 +13,7 @@ Formato da flag: BOITA{string}
 ## Instruções
 ```
 docker build -t itachi_cracker .
-```
-e
-```
+
 docker run -d -p 1337:1337 --name itachi_cracker_chall itachi_cracker
 ```
 ## Flag
